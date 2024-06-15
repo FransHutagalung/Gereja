@@ -1,0 +1,6 @@
+{
+    "name": "acer/proyek-praktek",
+    "require": {
+        "composer/composer": "^2.7"
+    }
+}
